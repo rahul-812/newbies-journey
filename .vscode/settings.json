@@ -1,6 +1,8 @@
 {
     "files.associations": {
         "iostream": "cpp",
-        "exception": "cpp"
+        "exception": "cpp",
+        "string": "cpp",
+        "istream": "cpp"
     }
 }
